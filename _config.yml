@@ -21,8 +21,7 @@
 title: Isaac Huffman
 email: isaacphuffman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello. My name is Isaac Huffman, a computer science student at the University of Michigan.
-  This is my blog for software and game development.
+  A software and game development blog for WolverineSoft Studio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  isaacph
